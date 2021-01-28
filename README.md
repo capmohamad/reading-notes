@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Airbus plane
 
 
@@ -16,3 +17,15 @@
 #### fore more than 100 years aviation had many changes 
 
 
+=======
+# mohammad hassouneh 
+
+i'm 30 years old looking to be software development 
+
+my target is alwasy learn somthing new 
+
+curse name |  Ulr
+---------- | ----
+Lab02b     | ![my md](https://github.com/capmohamad/readme-note.git)
+
+>>>>>>> 2e32a974e363bf0fe1ad54ce85f8a81d8f8d08ff
