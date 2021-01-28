@@ -1,0 +1,1 @@
+talk about loops and logical operators:&& ||
