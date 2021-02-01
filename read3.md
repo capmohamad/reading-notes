@@ -26,4 +26,4 @@ which other pages can be displayed.
 * The '<meta>' tag allows you to supply all kinds of
 information about your web page.
 * Escape characters are used to include special
-[github](https://github.com/capmohamad/pull3)
+[pull3](https://github.com/capmohamad/)
