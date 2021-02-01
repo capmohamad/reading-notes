@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-# mohammad hassouneh 
-=======
-# Airbus plane
->>>>>>> 0aac799f80f38034a31957bea1eae3f103d1c159
+
 
 i'm 30 years old looking to be software development 
 
@@ -12,12 +6,12 @@ my target is alwasy learn somthing new
 
 curse name  |  Ulr
 ----------  | ----
-read1       |[/mnt/c/Users/SW COD/projects/readme-note/read1.md]
-read2       |[/mnt/c/Users/SW COD/projects/readme-note/read2b.md]
-read3       |[/mnt/c/Users/SW COD/projects/readme-note/read3.md]
-read4       |[/mnt/c/Users/SW COD/projects/readme-note/read4.md]
-read5       |[/mnt/c/Users/SW COD/projects/readme-note/read5.md]
-read6       |[/mnt/c/Users/SW COD/projects/readme-note/read6.md]
+read1       |[pull1]
+read2       |[pull2 ]
+read3       |[pull3 ]
+read4       |[pull4]
+read5       |[pull5]
+read6       |[pull6]
 
 <<<<<<< HEAD
 >>>>>>> 2e32a974e363bf0fe1ad54ce85f8a81d8f8d08ff

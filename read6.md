@@ -23,3 +23,5 @@ Name — > color:black;
 RGB — > color: rgb (red value, Green value, Blue value); note that rgb has values from 0 - 255, and you can Alfa to it; which is opacity.
 hexadicimal — > # 00 00 00
 hsl — > color:hsl(hue value, saturation value, lightness value); hue: is the degree of color on wheel from 0 - 360 Saturation: shade of grey from 0% - 100% lightness: from 0% - 100% ( also note that you can add Alfa to hsl too, alfa value = 0.0 - 1.0)
+
+[github](https://github.com/capmohamad/pull6)
