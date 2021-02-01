@@ -1,22 +1,4 @@
 <<<<<<< HEAD
-# Airbus plane
-
-
-1. A320
-2. A330
-3. A340
-
-
-- A320
-  - made in 1989
-   - fastes seling plane 
-    - more than 5000 has made
-
-![airplane](https://airbus-h.assetsadobe2.com/is/image/content/dam/events/conference/press-conference/orders-deliveries-2017/Airbus-Family-formation-flight1.jpg?wid=1920&fit=fit,1&qlt=85,0)
-
-#### fore more than 100 years aviation had many changes 
-
-
 =======
 # mohammad hassouneh 
 
@@ -26,7 +8,11 @@ my target is alwasy learn somthing new
 
 curse name  |  Ulr
 ----------  | ----
-read1       |[read1.md]
+read1       |[/mnt/c/Users/SW COD/projects/readme-note/read1.md]
 read2       |[/mnt/c/Users/SW COD/projects/readme-note/read2b.md]
+read3       |[/mnt/c/Users/SW COD/projects/readme-note/read3.md]
+read4       |[/mnt/c/Users/SW COD/projects/readme-note/read4.md]
+read5       |[/mnt/c/Users/SW COD/projects/readme-note/read5.md]
+read6       |[/mnt/c/Users/SW COD/projects/readme-note/read6.md]
 
 >>>>>>> 2e32a974e363bf0fe1ad54ce85f8a81d8f8d08ff
