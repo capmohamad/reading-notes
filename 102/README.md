@@ -4,14 +4,15 @@ i'm 30 years old looking to be software development
 
 my target is alwasy learn somthing new 
 
-curse name  |  Ulr
-----------  | ----
-read1       |[pull1](read1.md)
-read2       |[pull2 ]
-read3       |[pull3 ]
-read4       |[pull4]
-read5       |[pull5]
-read6       |[pull6]
+curse name   |  lab
+----------   | ----
+read1        |[lab1](read1.md)
+read2a       |[lab2](read2a.md)
+read2b       |[lab2](read2b.md)
+read3        |[lab3](read3.md)
+read4        |[lab4](read4.md)
+read5        |[lab5](read5.md)
+read6        |[lab6](read6.md)
 
 =======
 - A320
@@ -31,7 +32,7 @@ i'm 30 years old looking to be software development
 
 my target is alwasy learn somthing new 
 
-curse name |  Ulr
+curse name |  lab
 -----------|------
 read2a     | [my md](read2a.md)
 
