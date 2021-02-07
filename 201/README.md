@@ -1,8 +1,17 @@
-curse name   |  lab
-----------   | ----
-read1        |[lab1](read1.md)
-read2        |[lab2](read2a.md)
-read3        |[lab3](read3.md)
-read4        |[lab4](read4.md)
-read5        |[lab5](read5.md)
-read6        |[lab6](read6.md)
+curse name    |  lab
+----------    | ----
+read1         |[lab1](read1.md)
+read2         |[lab2](read2a.md)
+read3         |[lab3](read3.md)
+read4         |[lab4](read4.md)
+read5         |[lab5](read5.md)
+read6         |[lab6](read6.md)
+read7         |[lab7](read7.md)
+read8         |[lab8](read8.md)
+read9         |[lab9](read9.md)
+read10        |[lab10](read10.md)
+read11        |[lab11](read11.md)
+read12        |[lab12](read12.md)
+read13        |[lab13](read13.md)
+read14        |[lab14](read14.md)
+read15        |[lab15](read15.md)
