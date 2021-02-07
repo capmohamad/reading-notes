@@ -1,4 +1,5 @@
 
+# mohammad hassouneh 
 
 i'm 30 years old looking to be software development 
 
@@ -26,13 +27,7 @@ read6        |[lab6](read6.md)
 
 
 =======
-# mohammad hassouneh 
 
-i'm 30 years old looking to be software development 
 
-my target is alwasy learn somthing new 
 
-curse name |  lab
------------|------
-read2a     | [my md](read2a.md)
 
