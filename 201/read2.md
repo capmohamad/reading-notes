@@ -10,6 +10,7 @@ HTML simply is a set of codes inserted in a file to display on a web page, meani
 
  What do we mean when we thinks about HTML !!
 
+s
 
 HTML is an acronym which stands for Hypertext Markup Language. From the name, it may sound a bit scary but it’s a basic markup language used to create web pages and web applications from plain simple text.
 
