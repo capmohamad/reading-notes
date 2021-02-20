@@ -1,21 +1,6 @@
-Article
-img.large {
-width: 500px;
-height: 500px;}
-img.medium {
-width: 250px;
-height: 250px;}
-img.small {
-width: 100px;
-height: 100px;}
-CSS
-<img src="images/magnolia-large.jpg"
-class="large" alt="Magnolia" />
-<img src="images/magnolia-medium.jpg"
-class="medium" alt="Magnolia" />
-<img src="images/magnolia-small.jpg"
-class="small" alt="Magnolia" />
-chapter-16/image-sizes.html HTML
+HTML imges 
+
+
 You can control the size of an
 image using the width and
 height properties in CSS, just
